@@ -129,3 +129,17 @@ section#Aboutme{
     color:#00abff;
     margin-top:50px;
 }
+#homebutton{
+    color:#00abff;
+}
+
+.header_ty{
+    color:#00abff;
+    font-size: 75px;
+    font-weight:bolder;
+    background: url('../pwpix/bg4.JPG');
+}
+
+.tymain{
+    background: url('../pwpix/bg4.JPG');
+}
