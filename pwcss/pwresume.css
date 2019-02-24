@@ -18,6 +18,10 @@ body{
     color:#ffffff;
 }
 
+body p{
+    font:15px;
+}
+
 .container{
     float:none;
     text-align: center;
